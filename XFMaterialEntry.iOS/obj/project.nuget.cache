@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FboQYEIzHpmqHmG+1743aAav9g+QgzhJKJ5SLNp+oHARBbnIXk1xQ9YO7CE0BLNY4dZ9hDtaf0iO7D3CtzQHBQ==",
+  "success": true,
+  "projectFilePath": "/Users/himanshudwivedi/Documents/workspace/XFMaterialEntry/XFMaterialEntry.iOS/XFMaterialEntry.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/himanshudwivedi/.nuget/packages/xamarin.forms/4.6.0.800/xamarin.forms.4.6.0.800.nupkg.sha512"
+  ],
+  "logs": []
+}

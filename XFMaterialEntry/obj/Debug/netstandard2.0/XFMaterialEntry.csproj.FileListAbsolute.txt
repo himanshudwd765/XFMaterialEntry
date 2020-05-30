@@ -1,0 +1,15 @@
+/Users/himanshudwivedi/Documents/workspace/XFMaterialEntry/XFMaterialEntry/bin/Debug/netstandard2.0/XFMaterialEntry.deps.json
+/Users/himanshudwivedi/Documents/workspace/XFMaterialEntry/XFMaterialEntry/bin/Debug/netstandard2.0/XFMaterialEntry.dll
+/Users/himanshudwivedi/Documents/workspace/XFMaterialEntry/XFMaterialEntry/bin/Debug/netstandard2.0/ref/XFMaterialEntry.dll
+/Users/himanshudwivedi/Documents/workspace/XFMaterialEntry/XFMaterialEntry/bin/Debug/netstandard2.0/XFMaterialEntry.pdb
+/Users/himanshudwivedi/Documents/workspace/XFMaterialEntry/XFMaterialEntry/obj/Debug/netstandard2.0/XFMaterialEntry.csprojAssemblyReference.cache
+/Users/himanshudwivedi/Documents/workspace/XFMaterialEntry/XFMaterialEntry/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/himanshudwivedi/Documents/workspace/XFMaterialEntry/XFMaterialEntry/obj/Debug/netstandard2.0/Controls/MaterialEntry.xaml.g.cs
+/Users/himanshudwivedi/Documents/workspace/XFMaterialEntry/XFMaterialEntry/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/himanshudwivedi/Documents/workspace/XFMaterialEntry/XFMaterialEntry/obj/Debug/netstandard2.0/XFMaterialEntry.AssemblyInfoInputs.cache
+/Users/himanshudwivedi/Documents/workspace/XFMaterialEntry/XFMaterialEntry/obj/Debug/netstandard2.0/XFMaterialEntry.AssemblyInfo.cs
+/Users/himanshudwivedi/Documents/workspace/XFMaterialEntry/XFMaterialEntry/obj/Debug/netstandard2.0/XFMaterialEntry.csproj.CoreCompileInputs.cache
+/Users/himanshudwivedi/Documents/workspace/XFMaterialEntry/XFMaterialEntry/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/himanshudwivedi/Documents/workspace/XFMaterialEntry/XFMaterialEntry/obj/Debug/netstandard2.0/XFMaterialEntry.dll
+/Users/himanshudwivedi/Documents/workspace/XFMaterialEntry/XFMaterialEntry/obj/Debug/netstandard2.0/ref/XFMaterialEntry.dll
+/Users/himanshudwivedi/Documents/workspace/XFMaterialEntry/XFMaterialEntry/obj/Debug/netstandard2.0/XFMaterialEntry.pdb

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "+sGE6wI8+A8UHTWQ3qM3yA3vEFkOyk7ihxfw6lpWXcUx1DIwLPMdecflSWepkQgpXpQyS7KH/DFH55zSqEnCHA==",
+  "success": true,
+  "projectFilePath": "/Users/himanshudwivedi/Documents/workspace/XFMaterialEntry/XFMaterialEntry/XFMaterialEntry.csproj",
+  "expectedPackageFiles": [
+    "/Users/himanshudwivedi/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/himanshudwivedi/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/himanshudwivedi/.nuget/packages/xamarin.forms/4.6.0.800/xamarin.forms.4.6.0.800.nupkg.sha512"
+  ],
+  "logs": []
+}

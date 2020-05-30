@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{23D6B5F9-990B-4FB3-9A01-82C57FC61CA6}|Default" NuGet.AddPackagesDialog.IncludePrerelease="True">
+  <MonoDevelop.Ide.Workbench ActiveDocument="XFMaterialEntry/MainPage.xaml">
+    <Files>
+      <File FileName="XFMaterialEntry/Controls/MaterialEntry.xaml.cs" Line="8" Column="53" />
+      <File FileName="XFMaterialEntry/Controls/MaterialEntry.xaml" Line="9" Column="42" />
+      <File FileName="XFMaterialEntry/MainPage.xaml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="XFMaterialEntry" expanded="True">
+            <Node name="XFMaterialEntry" expanded="True">
+              <Node name="MainPage.xaml" selected="True" />
+            </Node>
+            <Node name="XFMaterialEntry.Android" expanded="True" />
+            <Node name="XFMaterialEntry.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.XFMaterialEntry.Android AndroidDesignerPreferredTheme="Theme.AppCompat.Light.NoActionBar" PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.ItemProperties.XFMaterialEntry.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.53BC026E-B2EF-4EB8-BF9C-65FCF4BBA8D2" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

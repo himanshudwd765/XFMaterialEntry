@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentView xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:effects="clr-namespace:XFMaterialEntry.Effects"
+             x:Class="XFMaterialEntry.Controls.MaterialEntry"
+             x:Name="this">
+    <ContentView.Content>
+        <Grid>
+            <Entry x:Name="entryControl" 
+                   Completed="Handle_Completed" 
+                   TextColor="#374955"
+                   HeightRequest="46"
+                   Text="{Binding Text, Source={x:Reference this}}" 
+                   Unfocused="Handle_Unfocused" 
+                   Focused="Handle_Focused">
+                <Entry.Effects>
+                    <effects:EntryEffect/>
+                </Entry.Effects>
+            </Entry>
+            <StackLayout x:Name="labelStackLayout"
+                         BackgroundColor="White"
+                         VerticalOptions="Center">
+                <Label x:Name="labelTitle"
+                       TextColor="Gray"
+                       Text="{Binding Title, Source={x:Reference this}}"
+                       VerticalOptions="Center">
+                    <Label.GestureRecognizers>
+                        <TapGestureRecognizer Tapped="Handle_Tapped" />
+                    </Label.GestureRecognizers>
+                </Label>
+            </StackLayout>
+            
+        </Grid>
+    </ContentView.Content>
+</ContentView>
